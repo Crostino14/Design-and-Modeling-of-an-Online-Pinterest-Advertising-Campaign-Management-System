@@ -69,6 +69,5 @@ The `CreazioneRendicontoFinanziario` sub-process models the financial reconcilia
 
 ## 👨‍💻 Authors
 - **Asja Antonucci**
-- **Mario Berrino**
 - **Lorenzo Borrelli**
 - **Agostino Cardamone**
